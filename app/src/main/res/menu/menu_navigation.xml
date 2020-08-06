@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/soccer_fragment"
+        android:title="@string/my_soccer_title"/>
+
+    <item
+        android:id="@+id/match_list_fragment"
+        android:title="@string/plant_list_title"/>
+
+    <item
+        android:id="@+id/donate"
+        android:title="Donate"/>
+
+    <item
+        android:id="@+id/how_to"
+        android:title="Instructions"/>
+
+    <item
+        android:id="@+id/about_api"
+        android:title="About API" />
+
+</menu>

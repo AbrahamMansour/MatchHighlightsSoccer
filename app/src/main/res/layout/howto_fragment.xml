@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="1. Favourites: Matches added to favourites appear here\n2. Match List: Go to this menu to fetch all matches list\n3. Click on a match from match list or favourites to open match details page\n4. Click + icon on match details to add as favourites\n5. Click View highlights to view highlights\n6. Click Remove favourites to remove from favourites" />
+
+</LinearLayout>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00fcce21-2c4b-491e-873c-ed1d6062c88e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sunflower-java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sunflower-java" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sunflower-java" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sunflower-java" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLPlY22BfUpHAKPaUVdgAqa7ee" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="PLEGAR1771017252" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-29T08:29:34.377Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.apps.soccerscores.data.model" />
+      <recent name="com.apps.soccerscores.data" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.apps.soccerscores.data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apps.soccerscores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apps.soccerscores" />
+      <option name="MAIN_CLASS_NAME" value="com.apps.soccerscores.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sunflower-java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="sunflower-java:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android JUnit.ExampleUnitTest.addition_isCorrect" />
+      <item itemvalue="Gradle.sunflower-java [build]" />
+      <item itemvalue="Gradle.sunflower-java:app [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest.addition_isCorrect" />
+        <item itemvalue="Gradle.sunflower-java:app [build]" />
+        <item itemvalue="Gradle.sunflower-java [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00fcce21-2c4b-491e-873c-ed1d6062c88e" name="Default Changelist" comment="" />
+      <created>1595994550060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595994550060</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="139" key="#Project_Structure" timestamp="1596005080162">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="139" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1596005080162" />
+    <state x="468" y="193" key="#app" timestamp="1596005740158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="468" y="193" key="#app/0.0.1500.960@0.0.1500.960" timestamp="1596005740158" />
+    <state x="206" y="136" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596034814687">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="136" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1596034814687" />
+    <state x="556" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1596080466362">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="556" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1596080466362" />
+    <state x="480" y="264" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596034415208">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="480" y="264" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960@0.0.1500.960" timestamp="1596034415208" />
+    <state x="599" y="369" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596005852506">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="599" y="369" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1500.960@0.0.1500.960" timestamp="1596005852506" />
+    <state x="331" y="135" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1596005845555">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="331" y="135" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1500.960@0.0.1500.960" timestamp="1596005845555" />
+    <state x="545" y="339" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596033778808">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="545" y="339" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1596033778808" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596197619873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1500.960@0.0.1500.960" timestamp="1596114977300" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596197619873" />
+    <state x="481" y="228" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596080396746">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="228" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1500.960@0.0.1500.960" timestamp="1596080396746" />
+    <state x="797" y="196" key="#xdebugger.evaluate" timestamp="1596036719732">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="797" y="196" key="#xdebugger.evaluate/0.0.1500.960@0.0.1500.960" timestamp="1596036719732" />
+    <state width="1456" height="315" key="GridCell.Tab.0.bottom" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state width="1456" height="315" key="GridCell.Tab.0.center" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state width="1456" height="315" key="GridCell.Tab.0.left" timestamp="1596079081610">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1596079081610" />
+    <state width="1456" height="315" key="GridCell.Tab.0.right" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state width="1456" height="315" key="GridCell.Tab.1.bottom" timestamp="1596079081612">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1596079081612" />
+    <state width="1456" height="315" key="GridCell.Tab.1.center" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state width="1456" height="315" key="GridCell.Tab.1.left" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state width="1456" height="315" key="GridCell.Tab.1.right" timestamp="1596079081611">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1456" height="315" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1596079081611" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1596189946622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="152" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1596005069659" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596189946622" />
+    <state x="578" y="262" key="chooseDestDirectoryDialog" timestamp="1596033778543">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="578" y="262" key="chooseDestDirectoryDialog/0.0.1500.960@0.0.1500.960" timestamp="1596033778543" />
+    <state x="72" y="85" width="1357" height="791" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1596003710967">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="72" y="85" width="1357" height="791" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1500.960@0.0.1500.960" timestamp="1596003710967" />
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595996934213" />
+    <state x="568" y="87" width="785" height="868" key="find.popup" timestamp="1596195948941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="80" width="613" height="801" key="find.popup/0.0.1500.960@0.0.1500.960" timestamp="1596031069518" />
+    <state x="568" y="87" width="785" height="868" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596195948941" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596194282769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="204" width="672" height="626" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1596035565878" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596194282769" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/view_models/MatchListViewModel.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/view_models/MatchListViewModel.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/view_models/MatchListViewModel.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/data/MatchRepository.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/data/AppDatabase.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/data/AppDatabase.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/workers/SeedDatabaseWorker.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/data/AppDatabase.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/workers/SeedDatabaseWorker.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/apps/soccerscores/workers/SeedDatabaseWorker.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
